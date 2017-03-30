@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54595" started-at="2017-03-28T20:15:29Z" finished-at="2017-03-28T20:16:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54595" started-at="2017-03-28T20:15:29Z" finished-at="2017-03-28T20:16:23Z">
+      <class name="com.java.seleniumtutorials.Ten_PageScroll">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.java.seleniumtutorials.Ten_PageScroll@523884b2]" name="setUp" is-config="true" duration-ms="10367" started-at="2017-03-28T14:15:29Z" finished-at="2017-03-28T14:15:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.java.seleniumtutorials.Ten_PageScroll@523884b2]" name="test1" duration-ms="11222" started-at="2017-03-28T14:15:39Z" finished-at="2017-03-28T14:15:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="scrollToBottom()[pri:1, instance:com.java.seleniumtutorials.Ten_PageScroll@523884b2]" name="scrollToBottom" duration-ms="11259" started-at="2017-03-28T14:15:50Z" finished-at="2017-03-28T14:16:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollToBottom -->
+        <test-method status="PASS" signature="scrollToElement()[pri:2, instance:com.java.seleniumtutorials.Ten_PageScroll@523884b2]" name="scrollToElement" duration-ms="6639" started-at="2017-03-28T14:16:01Z" finished-at="2017-03-28T14:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollToElement -->
+        <test-method status="PASS" signature="scrollByCoordinates()[pri:3, instance:com.java.seleniumtutorials.Ten_PageScroll@523884b2]" name="scrollByCoordinates" duration-ms="6826" started-at="2017-03-28T14:16:08Z" finished-at="2017-03-28T14:16:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollByCoordinates -->
+        <test-method status="PASS" signature="scrollByUsingKeys()[pri:4, instance:com.java.seleniumtutorials.Ten_PageScroll@523884b2]" name="scrollByUsingKeys" duration-ms="6184" started-at="2017-03-28T14:16:15Z" finished-at="2017-03-28T14:16:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollByUsingKeys -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.java.seleniumtutorials.Ten_PageScroll@523884b2]" name="tearDown" is-config="true" duration-ms="2029" started-at="2017-03-28T14:16:21Z" finished-at="2017-03-28T14:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.java.seleniumtutorials.Ten_PageScroll -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
